@@ -1,0 +1,5 @@
+rekr\rest_work\loan\ILoan.class
+rekr\rest_work\loan\LoanImp.class
+rekr\rest_work\LoanWebService.class
+rekr\rest_work\IConstantLoan.class
+rekr\rest_work\loan\dto\LoanDateDTO.class
